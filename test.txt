@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is F007-8EF1
+
+ Directory of C:\Users\sony\Desktop\MyProject
+
+06/03/2018  04:08 PM    <DIR>          .
+06/03/2018  04:08 PM    <DIR>          ..
+06/03/2018  04:08 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)   9,956,143,104 bytes free
